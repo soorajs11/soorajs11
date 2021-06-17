@@ -1,6 +1,6 @@
 ![profile](profile.jpg)
 
-I'm ###SOORAJ S
+I'm **SOORAJ S
 
 I'm Currently focusing on building a strong developer profile.
 
