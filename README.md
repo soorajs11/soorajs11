@@ -1,6 +1,9 @@
-### Hi there 👋
-
 ![profile](profile.jpg)
+
+I'm ** SOORAJ S **
+I'm Currently focusing on building a strong developer profile.
+***Learning Go***
+Connect with me : contact.soorajs@gmail.com
 
 <!--
 **soorajs11/soorajs11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
