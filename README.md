@@ -1,10 +1,4 @@
-![profile](profile.jpg)
-
 **SOORAJ S**
-
-I'm Currently focusing on building a strong developer profile.
-
-***Learning Go***
 
 Connect with me : contact.soorajs@gmail.com
 
